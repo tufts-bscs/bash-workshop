@@ -1,0 +1,6 @@
+This is a quick little piping example!
+BSCS needs your HELP!
+HELP to run this command: cat SOS.txt | grep "HELP"
+That's it!
+HELP your friends!
+And HELP us!
