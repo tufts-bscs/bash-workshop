@@ -1,0 +1,9 @@
+Send a message over halligan!
+
+1. Figure out who is on your server
+2. Pick your target
+3. Type the following: cowsay "<Message>" | write <username>. 
+   Replace <message> with your message and <username> with 
+   someones UTLN.
+4. Press enter and you've sent a cow message!!
+5. Try another character. Type the following: cowsay -f <char name> "<Message>" | write <username>
