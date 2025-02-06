@@ -5,6 +5,11 @@ read num
 while [ "$num" -gt 0 ]; do
     echo "While Loop: $num"
     ((num--))
+
+    if [ "$num" -eq 1 ]; then
+        echo "Only 1 second remaining!"
+    fi
+    
     sleep 0.5  # Pause for half of a second
 done
 
