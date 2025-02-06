@@ -1,13 +1,12 @@
 Quick!
 ORGANIZE YOUR FILES!!!
 
-1. Create a new directory (HINT: mkdir)
-2. Move into the new directory (HINT: cd)
-3. Make a new file
-4. Check the file exists (HINT: ls)
-5. Rename the file (HINT: mv)
-6. View file contents (HINT: cat)
-7. Go back a directory (HINT: CD)
-8. Clean up the new directory (HINT: rm -r)
+1. Create a new directory
+2. Move into the new directory
+3. Make a new file (use touch filename)
+4. Check the file exists
+5. View file contents 
+6. Go back a directory 
+7. Clean up the new directory 
 
 That's it! Stay organized!
